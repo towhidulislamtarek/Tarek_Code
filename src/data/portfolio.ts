@@ -20,11 +20,11 @@ export const profile = {
   role: 'Computer Science Student · Developer · Cybersecurity Enthusiast',
   intro:
     'I’m drawn to the places where thoughtful software, artificial intelligence, and security meet. I like learning how things work, then building useful experiences that feel considered from the first interaction to the last.',
-  email: '',
+  email: 'tarektowhidulislam@gmail.com',
   socials: [
-    { label: 'GitHub', href: '' },
-    { label: 'LinkedIn', href: '' },
-    { label: 'Email', href: '' },
+    { label: 'GitHub', href: 'https://github.com/towhidulislamtarek' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/towhidulislamtarek' },
+    { label: 'Email', href: 'mailto:tarektowhidulislam@gmail.com' },
   ] satisfies SocialLink[],
 }
 
